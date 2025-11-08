@@ -64,13 +64,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-## ☕ Support Me
-<p align="left">
-  <a href="https://www.buymeacoffee.com/<your-handle>" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-  </a>
-</p>
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/sangeethsanthoshsa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
