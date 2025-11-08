@@ -80,7 +80,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/yourxhandle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:sangeethsanthoshsaa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
