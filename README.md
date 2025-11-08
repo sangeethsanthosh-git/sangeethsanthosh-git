@@ -56,6 +56,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangeethsanthosh-git&repo=PORTFOLIO&theme=tokyonight" />
   </a>
   <a href="https://github.com/sangeethsanthosh-git/Cartoonizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangeethsanthosh-git&repo=Cartoonizer&theme=tokyonight" />
+  </a>
 </p>
 
 ## 🗓️ Contribution Graph
