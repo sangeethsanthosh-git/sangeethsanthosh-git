@@ -1,4 +1,4 @@
-![Pixel Art Font Projects](https://github.com/user-attachments/assets/bb00408f-c6d5-4862-9fae-7d2eb33fa933)
+![Rebecca Mock](https://github.com/user-attachments/assets/f5e3ab70-04d1-4bcc-8420-e2a81a628439)![Pixel Art Font Projects](https://github.com/user-attachments/assets/bb00408f-c6d5-4862-9fae-7d2eb33fa933)
 
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
 <h3 align="center">Aspiring MCA Student • Developer • Problem Solver</h3>
@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20VS%20Code%20%7C%20Linux%20%7C%20Figma-green?style=for-the-badge"/>
 </p>
+
+![Rebecca Mock](https://github.com/user-attachments/assets/d1f4981d-2b22-4ea8-ba49-d365963ffc11)
 
 ## 🧩 Featured Projects
 - Portfolio Website — fast, responsive, and deployed on Vercel. Live: https://sangeethsanthoshsa.vercel.app
