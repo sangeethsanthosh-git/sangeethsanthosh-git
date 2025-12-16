@@ -4,8 +4,12 @@
 <h3 align="center">Aspiring MCA Student • Developer • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://sangeethsanthoshsa.vercel.app" target="_blank">Visit my Portfolio ↗</a>
+  <a href="https://sangeethsanthoshsa.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=320&lines=Visit+My+Portfolio" />
+  </a>
 </p>
+
+
 
 ---
 
