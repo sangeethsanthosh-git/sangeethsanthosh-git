@@ -128,8 +128,9 @@
   <a href="https://linkedin.com/in/sangeethsanthoshsa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/sangeeth_saa" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:sangeethsanthosh80@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://sangeethsanthoshsa.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-</p>
+ <a href="https://sangeethsanthosh-git.github.io/" target="_blank">
+  🌐 Portfolio
+</a></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sangeethsanthosh-git&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
