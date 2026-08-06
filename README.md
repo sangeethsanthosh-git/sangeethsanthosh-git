@@ -94,8 +94,10 @@ I'm passionate about software development, AI, and building meaningful tech solu
 
 <p align="left">
   <a href="https://linkedin.com/in/sangeethsanthoshsa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/sangeeth_saa" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:sangeethsanthosh80@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
- <a href="https://sangeethsanthosh-git.github.io/" target="_blank">
-  🌐 Portfolio
+  <a href="mailto:sangeethsanthoshsaa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+   <a href="https://www.instagram.com/sangeethsanthosh.sa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+ <a href="https://sangeethsanthosh-git.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a></p>
