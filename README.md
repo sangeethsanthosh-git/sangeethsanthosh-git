@@ -61,10 +61,19 @@ I'm passionate about software development, AI, and building meaningful tech solu
 
 | Project | Live Demo | Repository | Tech Stack |
 |:--|:--:|:--:|:--|
+| **Portfolio Website** | [View](https://sangeethsanthosh-git.github.io/) | [Repo](https://github.com/sangeethsanthosh-git/sangeethsanthosh-git.github.io) | `TypeScript` `Web Portfolio` |
 | **Gistify** | [View](https://gistify-c.vercel.app/) | [Repo](https://github.com/sangeethsanthosh-git/Gistify) | `TypeScript` `React` `Next.js` `Hugging Face` |
+| **PCOD Detection System** | — | [Repo](https://github.com/sangeethsanthosh-git/PCOD-Detection-System) | `Python` `AI` `Clinical Support` `Desktop App` |
+| **AI Budget Planner** | — | [Repo](https://github.com/sangeethsanthosh-git/ai-budget-planner) | `Python` `Flask` `AI` `Expense Forecasting` |
+| **Edusense** | — | [Repo](https://github.com/sangeethsanthosh-git/Edusense) | `HTML` `Flask` `Lecture Assistant` |
+| **Website Traffic Analyzer** | — | [Repo](https://github.com/sangeethsanthosh-git/website-traffic-analyzer) | `HTML` `Analytics` `Web` |
+| **Kerala Tourism** | — | [Repo](https://github.com/sangeethsanthosh-git/kerala-tourism) | `HTML` `CSS` `Tourism Website` |
+| **File Integrity** | — | [Repo](https://github.com/sangeethsanthosh-git/file-integrity) | `CSS` `Security` `Web` |
 | **FINLEY-KEYCODERS** | — | [Repo](https://github.com/sangeethsanthosh-git/FINLEY-KEYCODERS) | `JavaScript` `AI Logic` `Finance Concepts` |
-| **AEROSENSE** | — | [Repo](https://github.com/sangeethsanthosh-git/AEROSENSE) | `Python` `Jupyter Notebook` `Data Analysis` |
+| **AEROSENSE-MACTRONS** | — | [Repo](https://github.com/sangeethsanthosh-git/AEROSENSE-MACTRONS) | `Jupyter Notebook` `Data Analysis` |
+| **ICT** | — | [Repo](https://github.com/sangeethsanthosh-git/ICT) | `Jupyter Notebook` `Practice` `Data Analysis` |
 | **Cartoonizer** | — | [Repo](https://github.com/sangeethsanthosh-git/Cartoonizer) | `Python` `OpenCV` `TensorFlow` `Django` |
+| **Demo** | — | [Repo](https://github.com/sangeethsanthosh-git/demo) | `GitHub Practice` |
 
 ## 📊 GitHub Stats
 
